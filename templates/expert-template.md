@@ -1,6 +1,9 @@
 # Generated expert pack contract
 Create this in the user's chosen working folder, separate from the kit.
 
+## Charter checks
+For each of the four checks: question / proposed answer / source or method / inspected evidence / gap / evaluation check / owner confirmation for scope changes. The checks cover what the brief misses, original sources, an appropriate method and independent evidence of quality. Include the agreed 6–10 domain questions the expert must answer.
+
 ## AGENT.md
 Name / owner / job / scope / excluded decisions / inputs / output / permitted tools / skill routing / source retrieval / escalation / working-record location.
 
